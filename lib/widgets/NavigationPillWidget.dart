@@ -3,8 +3,7 @@ import 'package:nintellect/config/Palette.dart';
 
 class NavigationPillWidget extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-    // TODO: implement build
+  Widget build(BuildContext context) { 
     return Container(
         child: Column(
             mainAxisAlignment: MainAxisAlignment.center,

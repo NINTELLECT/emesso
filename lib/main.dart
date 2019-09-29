@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:nintellect/config/Palette.dart';
+import 'package:flutter/material.dart'; 
 import 'package:nintellect/pages/ConversationPageList.dart';
 
 void main() => runApp(MyApp());
